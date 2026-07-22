@@ -4,15 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanum10&label=Profile%20views&color=0e75b6&style=flat" alt="shantanum10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanum10" alt="shantanum10" /></a> </p>
+🔭 Currently building end-to-end Data Analytics Projects
 
-- 🔭 I’m currently working on **Myself**
+🌱 I'm Currently Learning Machine Learning and Agentic AI
 
-- 🌱 I’m currently learning **MS Excel, Python, MySQL, Power BI, Tableau**
+📊 Interested in Data Analytics, Business Analytics and Finance
 
-- 💬 Ask me about **MS Excel, Python, MySQL, Power BI, Tableau**
+📈 Passionate about creating dashboards that solve business problems
 
-- 📫 How to reach me **shantanum7066@gmail.com**
+📫 How to reach me shantanum7066@gmail.com
 
+⚡ Fun Fact: I enjoy analyzing financial markets as much as datasets.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shantanu-manohar-a97690352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-manohar-a97690352/" height="30" width="40" /></a>
